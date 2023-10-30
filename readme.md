@@ -68,4 +68,3 @@ C:\Users\gonza\OneDrive\Documentos\Asir 2º AÑO\IAW\mi-proyecto2>git tag v1.0
 C:\Users\gonza\OneDrive\Documentos\Asir 2º AÑO\IAW\mi-proyecto2>git tag -d v1.0
 Deleted tag 'v1.0' (was 67b7da5)
 
-C:\Users\gonza\OneDrive\Documentos\Asir 2º AÑO\IAW\mi-proyecto2>git tag v1.0
