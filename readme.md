@@ -73,3 +73,27 @@ Deleted tag 'v1.0'
 -Deleted tag 'v1.0' (was 67b7da5)
 +Deleted tag 'v1.0'
 
+
+C:\Users\gonza\OneDrive\Documentos\Asir 2º AÑO\IAW\mi-proyecto2>git diff v1.
+0 v2.0
+diff --git a/readme.md b/readme.md
+index 3a3ca78..9ebc3ce 100644
+--- a/readme.md
++++ b/readme.md
+@@ -60,4 +60,12 @@ C:\Users\gonza\OneDrive\Documentos\Asir 2º AÑO\IAW\mi-proyecto2>git log --on
+ eline
+ 7a7f1ca (HEAD) Añadido readme.md
+ 05cac17 (master) Añadido readme.md
+-820818f Añadido readme.md
+\ No newline at end of file
++820818f Añadido readme.md
++
++C:\Users\gonza\OneDrive\Documentos\Asir 2º AÑO\IAW\mi-proyecto2>git tag v1.0
++
++
++C:\Users\gonza\OneDrive\Documentos\Asir 2º AÑO\IAW\mi-proyecto2>git tag -d v1.0
++Deleted tag 'v1.0' (was 67b7da5)
++
++C:\Users\gonza\OneDrive\Documentos\Asir 2º AÑO\IAW\mi-proyecto2>git tag v1.0
+\ No newline at end of file
+
